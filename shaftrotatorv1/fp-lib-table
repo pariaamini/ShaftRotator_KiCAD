@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SW_D6R90_F2_LFS")(type "KiCad")(uri "C:/Users/paria/Downloads/D6R90_F2_LFS (1)/SW_D6R90_F2_LFS.pretty")(options "")(descr ""))
+  (lib (name "Project_Switches")(type "KiCad")(uri "C:/Users/paria/OneDrive/Desktop/DeltaSea/Project_Switches.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/paria/OneDrive/Desktop/DeltaSea/Project_Switches.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "OPL_Connector")(type "KiCad")(uri "C:/Users/paria/Downloads/OPL_Kicad_Library-master/OPL_Kicad_Library-master/Seeed Fusion Component Libraries for KiCad/OPL_Connector.pretty")(options "")(descr ""))
+)
